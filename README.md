@@ -1,4 +1,6 @@
 # style_transfer
+![image](https://github.com/Saitejabojja07/style_transfer/assets/128970853/099a5351-8ac2-44e4-ae2f-5c75757916b2)
+
 Datasets/Inputs used:
 
 1.https://www.kaggle.com/datasets/duttadebadri/image-classification
